@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Operations Analysis
+# 🍽️ Optimizing Restaurant Performance Through SQL Analysis
 
 ## Project Overview
 The Restaurant Operations Analysis project evaluates sales performance, customer preferences, and pricing strategies using data from the menu_items and order_details tables. The goal is to generate actionable insights that can help optimize menu offerings, pricing structures, and overall restaurant profitability.
